@@ -4,6 +4,6 @@ Hi, Humans :stuck_out_tongue_winking_eye::exclamation:
 
 I am Adarsh
 
-:seedling: I like to code, listen to music :notes: and do Math :pencil2:
+:seedling: I like to listen to music :notes: and do Math :pencil2:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=theCode-Breaker)
