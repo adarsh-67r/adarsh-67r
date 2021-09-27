@@ -6,4 +6,4 @@ I am Adarsh
 
 :seedling: I like to listen to music :notes: and do Math :pencil2:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=theCode-Breaker)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theCode-Breaker)](https://github.com/anuraghazra/github-readme-stats)
