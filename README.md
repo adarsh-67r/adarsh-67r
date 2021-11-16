@@ -12,5 +12,5 @@ I am Adarsh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://www.discordapp.com/users/896349938034819163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.discordapp.com/users/896349938034819163/" height="30" width="40" /></a>
+<a href="https://www.discord.com/users/896349938034819163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.discordapp.com/users/896349938034819163/" height="30" width="40" /></a>
 </p>
