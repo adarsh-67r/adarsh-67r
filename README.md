@@ -12,10 +12,5 @@ I am <b><i>Adarsh</i></b></h1>
 <h2 align="center">Stats</h2>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theCode-Breaker&show_icons=true&theme=github_dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCode-Breaker&layout=compact&show_icons=true&theme=github_dark)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.discord.com/users/896349938034819163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.discordapp.com/users/896349938034819163/" height="30" width="40" /></a>
-</p>
+<br><br><br>
