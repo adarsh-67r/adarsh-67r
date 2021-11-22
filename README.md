@@ -15,6 +15,6 @@ I am <b><i>Adarsh</i></b></h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCode-Breaker&layout=compact&show_icons=true&theme=github_dark)
 <br><br><br>
 <h3 align="left">Connect with me</h3>
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/896349938034819163"><img height="80px" src="https://discord.c99.nl/widget/theme-4/896349938034819163.png"></a>
 </p>
