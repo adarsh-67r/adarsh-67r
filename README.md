@@ -33,7 +33,7 @@
 <a href = 'https://www.github.com/theCode-Breaker'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://gitlab.com/theCode-Breaker'> <img width = '42px' align= 'center' 
 src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"/></a>
-<a href = 'https://discord.com/users/896349938034819163'> <img width = '38px' align= 'center'
+<a href = 'https://discord.com/users/896349938034819163'> <img width = '36px' align= 'center'
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
 
 
