@@ -1,6 +1,5 @@
-
 <div align="center">
-<img width="25%" height = "250px" src="https://gifimage.net/wp-content/uploads/2017/10/discord-profile-picture-gif-3.gif" alt="cover" />
+<img width="25%" height = "225px" src="https://gifimage.net/wp-content/uploads/2017/10/discord-profile-picture-gif-3.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
