@@ -34,9 +34,6 @@
 src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"/></a>
 <a href = 'https://discord.com/users/896349938034819163'> <img width = '36px' align= 'center'
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
-<a href = 'https://dev.to/thecodebreaker'> <img width = '32px' align= 'center' 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/></a>
-
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
