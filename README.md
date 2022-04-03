@@ -40,6 +40,7 @@ src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/ma
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=theCode-Breaker&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theCode-Breaker&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
 
-<h2> Some Programming Humor for you <img align ='left' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor for you <img align ='left' 
+src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
