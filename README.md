@@ -1,32 +1,15 @@
-<div align="center">
-<img width="25%" height = "225px" src="https://gifimage.net/wp-content/uploads/2017/10/discord-profile-picture-gif-3.gif" alt="cover" />
-</div>
+<h1 align=center><img src='https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=96CDFB&center=true&vCenter=true&lines=Linux%2C+Python%2C+Neovim%2C+Bash'></h1>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theCode-Breaker.theCode-Breaker)
-
+<p align='center'>  
 </p>
 <div size='20px'> Hi! My name is Adarsh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+  
+![](https://komarev.com/ghpvc/?username=theCode-Breaker&color=F28FAD&style=flat-square)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on Something
-
-- 🌱 I’m currently learning Python 
-
-- 👯 I’m looking to collaborate on Projects 
-
-- 💬 Talk to me about Python, Open Source 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/theCode-Breaker?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/theCode-Breaker'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
@@ -37,8 +20,8 @@ src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/ma
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
   
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=theCode-Breaker&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theCode-Breaker&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=theCode-Breaker&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCode-Breaker&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 <h2> Some Programming Humor for you <img align ='left' 
 src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
