@@ -20,6 +20,7 @@
 <a href = 'https://gitlab.com/theCode-Breaker'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"/></a>
 <a href = 'https://discord.com/users/896349938034819163'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/></a>
 <a href = 'https://t.me/theCode_Breaker'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/></a>
+<a href = 'https://www.reddit.com/user/Cool_Inevitable7821'> <img width = '32px' align= 'center' src="https://www.redditinc.com/assets/images/site/reddit-logo.png"/></a>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
   
