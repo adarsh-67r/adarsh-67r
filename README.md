@@ -1,6 +1,4 @@
-<h1 align=center><img src='https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=96CDFB&center=true&vCenter=true&lines=Linux%2C+Python%2C+Neovim%2C+Bash'></h1>
-
-<h2> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>  
 </p>
 <div size='20px'> Hi! My name is Adarsh. Thank You for taking the time to view my GitHub Profile :smile: 
