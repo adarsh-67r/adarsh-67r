@@ -11,8 +11,7 @@
   
 ![](https://komarev.com/ghpvc/?username=theCode-Breaker&color=F28FAD&style=flat-square)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/theCode-Breaker'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/></a>
 <a href = 'https://gitlab.com/theCode-Breaker'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"/></a>
