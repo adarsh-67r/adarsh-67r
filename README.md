@@ -29,6 +29,3 @@ Hi! I'm Adarsh. Thanks for stopping by and checking out my GitHub profile!
 
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=theCode-Breaker&show_icons=true?&theme=catppuccin_mocha)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCode-Breaker&layout=compact&theme=catppuccin_mocha)
-
-<h2> Some Programming Humor for You <img align='left' 
-src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='32px'></h2>
