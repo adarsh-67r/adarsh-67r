@@ -6,12 +6,6 @@
 Hi! I'm Adarsh. Thanks for stopping by and checking out my GitHub profile!  
 </div>
 
-<h3 align="center"> I use Arch, BTW! </h3>
-
-<p align="center">
-  <img align="center" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif"/>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=theCode-Breaker&color=1e1e2e&style=flat-square)
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
