@@ -17,6 +17,4 @@ Hi! I'm Adarsh. Thanks for stopping by and checking out my GitHub profile!
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=adarsh-67r&show_icons=true&theme=catppuccin_mocha)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-67r&layout=compact&theme=catppuccin_mocha)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarsh-67r&theme=catppuccin_mocha)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight)
