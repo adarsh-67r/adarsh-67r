@@ -14,7 +14,7 @@ Hi! I'm Adarsh. Thanks for stopping by and checking out my GitHub profile!
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=adarsh-67r&show_icons=true&theme=catppuccin_mocha)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-67r&layout=compact&theme=catppuccin_mocha)
+![Github Readme Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight)
