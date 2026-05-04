@@ -15,6 +15,7 @@ Hi! I'm Adarsh. Thanks for stopping by and checking out my GitHub profile!
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![Github Readme Stats](./profile/stats.svg)
+
 ![Top Langs](./profile/top-langs.svg)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-67r&theme=catppuccin-mocha&border_radius=16&card_width=490&card_height=190)](https://git.io/streak-stats)
