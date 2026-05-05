@@ -2,6 +2,8 @@
   <img src="https://terminal-identity-opal.vercel.app/api?name=Adarsh&username=adarsh-67r&role=Developer&tagline=Hello+Fellow+%3C+Developers%2F+%3E%21&status=Probably+listening+to+music&command=sudo+rm+-rf&theme=amber%2Fcobalt&avatar=GG&pattern=rings&width=980&height=auto&showLangs=on&showContribs=on&langCount=6&barStyle=blocks&motion=pulse&contribTheme=constellation&contribRange=1y&contribMode=focus&bio=Thanks+for+stopping+by+and+checking+out+my+GitHub+profile%21" width="100%" alt="Terminal identity card" />
 </a>
 
+![Hacker](https://coolreadme.xyz/api/hacker?user=adarsh-67r&status=LISTENING%20TO%20MUSIC&accent=%2360A5FA)
+
 <h2> Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="https://github.com/adarsh-67r" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
