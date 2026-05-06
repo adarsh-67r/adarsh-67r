@@ -10,7 +10,7 @@
 <a href="https://discord.com/users/.adarsh_67" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/></a>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
+---
 ![Github Readme Stats](./profile/stats.svg)
 ---
 ![Top Langs](./profile/top-langs.svg)
