@@ -42,10 +42,8 @@ tools       Linux · Git · Docker · Neovim · VS Code
 <img src="./hd-projects.svg" alt="projects" width="620">
 
 <samp>
-Arithi-Official       · Next.js, React, TypeScript, Prisma
-RouteMind AI          · MERN, Groq API
-CPOS                  · Rust CLI tooling
-Portfolio + DSA       · React, Vite, JavaScript
+RouteMind AI · MERN, Groq API
+An AI-assisted route and planning application.
 </samp>
 
 <img src="./hd-stats.svg" alt="stats" width="620">
