@@ -34,9 +34,9 @@ technical notes, and things I'm currently learning.
 <img src="./hd-stack.svg" alt="stack" width="620">
 
 <samp>
-languages   Python · C++ · JavaScript · TypeScript · Bash
-frontend    React · Vite · Tailwind · Astro
-tools       Linux · Git · Docker · Neovim · VS Code
+Python · C++ · JavaScript · TypeScript · Bash
+React · Vite · Tailwind · Astro
+Linux · Git · Docker · Neovim · VS Code
 </samp>
 
 <img src="./hd-projects.svg" alt="projects" width="620">
