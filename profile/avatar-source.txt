@@ -1,0 +1,5 @@
+GitHub avatar source for local portrait generation:
+https://avatars.githubusercontent.com/u/83777943?v=4
+
+Download it locally, then run:
+python3 scripts/make_portrait.py profile/avatar.jpg
