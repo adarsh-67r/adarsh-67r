@@ -37,7 +37,6 @@ technical notes, and things I'm currently learning.
 languages   Python · C++ · JavaScript · TypeScript · Bash
 frontend    React · Vite · Tailwind · Astro
 tools       Linux · Git · Docker · Neovim · VS Code
-learning    Rust
 </samp>
 
 <img src="./hd-projects.svg" alt="projects" width="620">
