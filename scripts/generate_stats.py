@@ -34,15 +34,7 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 
 def query_github(variables):
     payload = json.dumps({"query": QUERY, "variables": variables}).encode()
-    request = urllib.request.Request(
-        API_URL,
-        data=payload,
-        headers={
-            "Authorization": f"bearer {TOKEN}",
-            "Content-Type": "application/json",
-            "User-Agent": LOGIN,
-        },
-    )
+    request = urllib.request.Request(API_URL, data=payload, headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json", "User-Agent": LOGIN})
     with urllib.request.urlopen(request, timeout=30) as response:
         result = json.load(response)
     if result.get("errors"):
