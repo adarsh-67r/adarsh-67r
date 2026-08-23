@@ -27,8 +27,7 @@ Outside screens I enjoy music, anime, and reading manhwa and web novels.
 <img src="./hd-about-this-page.svg" alt="about this page" width="620">
 
 <samp>
-This is my personal space on the internet — a place for projects, experiments,
-technical notes, and things I'm currently learning.
+This is my GitHub space.
 </samp>
 
 <img src="./hd-stack.svg" alt="stack" width="620">
