@@ -33,15 +33,15 @@ This is my GitHub space.
 <img src="./hd-stack.svg" alt="stack" width="620">
 
 <samp>
-Python · C++ · JavaScript · TypeScript · Bash
-React · Vite · Tailwind · Astro
+Python · C++ · JavaScript · TypeScript · Bash<br>
+React · Vite · Tailwind · Astro<br>
 Linux · Git · Docker · Neovim · VS Code
 </samp>
 
 <img src="./hd-projects.svg" alt="projects" width="620">
 
 <samp>
-RouteMind AI · MERN, Groq API
+RouteMind AI · MERN, Groq API<br>
 An AI-assisted route and planning application.
 </samp>
 
